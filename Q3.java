@@ -52,6 +52,5 @@ public class Q3 {
                     break;
             }
         }
-        s.close();
     }
 }
